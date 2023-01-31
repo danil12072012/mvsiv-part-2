@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="60986a7b-9edf-46d1-bb1d-9bdfc675967f" name="Changes" comment="mvsiv part 2">
+    <list default="true" id="60986a7b-9edf-46d1-bb1d-9bdfc675967f" name="Changes" comment="Tasks.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
@@ -20,6 +20,18 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="81efdda4-cf62-402a-afb0-808771833ed6" />
+        <option name="url" value="https://github.com/danil12072012/mvsiv-part-2.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -68,6 +80,11 @@
       <workItem from="1674665173641" duration="355000" />
       <workItem from="1674665547725" duration="9000" />
       <workItem from="1674665588421" duration="2980000" />
+      <workItem from="1674668652655" duration="409000" />
+      <workItem from="1674669311150" duration="24000" />
+      <workItem from="1674892355135" duration="6000" />
+      <workItem from="1674892396743" duration="23000" />
+      <workItem from="1675181868448" duration="1770000" />
     </task>
     <task id="LOCAL-00001" summary="mvsiv part 2">
       <created>1674665407233</created>
@@ -76,7 +93,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674665407233</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Tasks">
+      <created>1674668772016</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1674668772016</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -84,6 +108,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="mvsiv part 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="mvsiv part 2" />
+    <MESSAGE value="Tasks" />
+    <MESSAGE value="Tasks." />
+    <option name="LAST_COMMIT_MESSAGE" value="Tasks." />
   </component>
 </project>
